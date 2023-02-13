@@ -1,0 +1,51 @@
+body {
+  background: linear-gradient(to right, #98fb98, #00ffff);
+  font-family: nunito, sans-serif;
+}
+
+.container {
+  margin: 100px auto;
+}
+
+.judul {
+  margin: 20px auto;
+  text-align: center;
+}
+
+form {
+  align-items: center;
+}
+
+.form-text {
+  width: 300px;
+}
+
+.tambah {
+  margin-left: 20px;
+  margin-right: 50pxpx;
+  height: 48px;
+}
+
+.list-group {
+  align-items: center;
+  margin-top: 20px;
+}
+
+.list-group-item {
+  width: 400px;
+  text-align: center;
+}
+
+i {
+  color: #708090;
+}
+
+span {
+  font-size: medium;
+  font-weight: 300;
+  color: black;
+}
+
+.coret {
+  text-decoration: line-through;
+}
